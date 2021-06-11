@@ -1,4 +1,4 @@
-# smart-contract-tokens
+## smart-contract-tokens
 pragma solidity 0.5.10;
 
 /**
