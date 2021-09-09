@@ -8,7 +8,7 @@ pragma solidity 0.5.10;
   222   22  22 22   22 22   22 22         
   222   22  22   2222  22      22          
  
- Project URL: https://tron one.net
+ Project 
   - A SELF-SUSTAINABLE AND PROMISING SMART CONTRACT ON TRON BLOCKCHAIN.
   - 1% DAILY INTEREST
   - 200% OF YOUR DEPOSIT
