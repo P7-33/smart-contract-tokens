@@ -1,4 +1,31 @@
 B## smart-contract-tokens
+
+<pre>
+
+  BIP: 32
+  Layer: Applications
+  Autor:<pathombrowser@gmail.com>
+  Comments-Summary: No comments yet.
+  Comments-URI:
+<pre>
+
+  BIP: 32
+  Layer: Applications
+  Autor:<pathombrowser@gmail.com>
+  Comments-Summary: No comments yet.
+  Comments-URI: comment :BIP-0032
+  Status: Finalbtcbrowser
+  Type: Informational
+  Owner:Cesar Moreno<Pathombrowser@gmail.com> 
+  Created: 2019-11-23
+  License: 2-clause BSD
+</pre> comment :BIP-0032
+  Status: Finalbtcbrowser
+  Type: Informational
+  Owner:Cesar Moreno<Pathombrowser@gmail.com> 
+  Created: 2019-11-23
+  License: 2-clause BSD
+</pre>
 https://github.com/P7-33/smart-contract-tokens.wiki.git
 pragma solidity 0.5.10;
 
