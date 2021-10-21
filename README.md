@@ -1,4 +1,5 @@
 B## smart-contract-tokens
+https://github.com/P7-33/smart-contract-tokens.wiki.git
 pragma solidity 0.5.10;
 
 /**
