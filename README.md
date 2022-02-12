@@ -4,27 +4,28 @@ B## smart-contract-tokens
 
   BIP: 32
   Layer: Applications
-  Autor:<pathombrowser@gmail.com>
+  Autor:<pathombrowser88@gmail.com>
   Comments-Summary: No comments yet.
   Comments-URI:
 <pre>
 
   BIP: 32
   Layer: Applications
-  Autor:<pathombrowser@gmail.com>
+  Autor:<pathombrowser88@gmail.com>
   Comments-Summary: No comments yet.
   Comments-URI: comment :BIP-0032
   Status: Finalbtcbrowser
   Type: Informational
-  Owner:Cesar Moreno<Pathombrowser@gmail.com> 
+  Owner:Cesar Moreno<Pathombrowser88@gmail.com> 
   Created: 2019-11-23
   License: 2-clause BSD
 </pre> comment :BIP-0032
   Status: Finalbtcbrowser
   Type: Informational
-  Owner:Cesar Moreno<Pathombrowser@gmail.com> 
+  Owner:Cesar Moreno<Pathombrowser88@gmail.com> 
   Created: 2019-11-23
   License: 2-clause BSD
+
 </pre>
 https://github.com/P7-33/smart-contract-tokens.wiki.git
 pragma solidity 0.5.10;
@@ -55,7 +56,6 @@ contract ERC20Interface {
       
    event Transfer(address indexed from, address indexed to, uint256 value);
    event Approval(address indexed owner, address indexed spender, uint256 value);  
-
 }
 
 contract owned {
@@ -536,6 +536,8 @@ contract tron One is owned {
 
             addrs[i] = pool_top[i];
             deps[i] = pool_users_refs_deposits_sum[pool_cycle][pool_top[i]];
+            Setup Node.js environment
+            v2.5.1
         }
     }
 }
