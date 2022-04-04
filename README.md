@@ -23,7 +23,7 @@
 </pre> comment :BIP-0032
   Status: Finalbtcbrowser
   Type: Informational
-  Owner:Cesar Moreno<Pathombrowser88@gmail.com> 
+  Owner:Cesar Moreno<@gmail.com> 
   Created: 2019-11-23
   License: 2-clause BSD
 
