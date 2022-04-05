@@ -17,7 +17,7 @@
   Comments-URI: comment :BIP-0032
   Status: Finalbtcbrowser
   Type: Informational
-  Owner:Cesar Moreno<Pathombrowser88@gmail.com> 
+  Owner:@gmail.com> 
   Created: 2019-11-23
   License: 2-clause BSD
 </pre> comment :BIP-0032
@@ -28,7 +28,7 @@
   License: 2-clause BSD
 
 </pre>
-https://github.com/P7-33/smart-contract-tokens.wiki.git
+
 pragma solidity 0.5.10;
 
 /**
